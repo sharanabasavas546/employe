@@ -1,4 +1,4 @@
-from employee import employee_info
+from employee import employee_details
 
 def test_employee_info():
     
